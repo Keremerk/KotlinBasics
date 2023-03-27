@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BottomNavigationViewChallange</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first">First fragment</string>
+    <string name="Second">Second fragment</string>
+    <string name="Third">Third fragment</string>
+    <string name="Fourth">Fourth fragment</string>
+</resources>

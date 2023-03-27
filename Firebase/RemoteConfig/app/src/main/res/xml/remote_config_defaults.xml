@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defaults>
+  <entry>
+    <key>image_View_Visibility</key>
+    <value>false</value>
+  </entry>
+  <entry>
+    <key>year</key>
+    <value>2023</value>
+  </entry>
+  <entry>
+    <key>Eurovision_Song_Contest</key>
+    <value>Eurovision Song Contest</value>
+  </entry>
+</defaults>

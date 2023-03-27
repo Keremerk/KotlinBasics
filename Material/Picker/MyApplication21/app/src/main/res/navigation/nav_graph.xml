@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/zeroFragment">
+
+    <fragment
+        android:id="@+id/zeroFragment"
+        android:name="com.example.myapplication.ZeroFragment"
+        android:label="fragment_zero"
+        tools:layout="@layout/fragment_zero" >
+        <action
+            android:id="@+id/action_zeroFragment_to_imagePickerFragment"
+            app:destination="@id/imagePickerFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/imagePickerFragment"
+        android:name="com.example.myapplication.ImagePickerFragment"
+        android:label="fragment_image_picker"
+        tools:layout="@layout/fragment_image_picker" >
+        <action
+            android:id="@+id/action_imagePickerFragment_to_fontPickerFragment"
+            app:destination="@id/fontPickerFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/fontPickerFragment"
+        android:name="com.example.myapplication.FontPickerFragment"
+        android:label="fragment_font_picker"
+        tools:layout="@layout/fragment_font_picker" >
+        <action
+            android:id="@+id/action_fontPickerFragment_to_agePickerFragment"
+            app:destination="@id/agePickerFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/agePickerFragment"
+        android:name="com.example.myapplication.AgePickerFragment"
+        android:label="fragment_age_picker"
+        tools:layout="@layout/fragment_age_picker" >
+        <action
+            android:id="@+id/action_agePickerFragment_to_zeroFragment"
+            app:destination="@id/zeroFragment" />
+    </fragment>
+</navigation>

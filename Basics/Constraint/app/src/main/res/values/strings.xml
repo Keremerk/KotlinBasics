@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="future_tech">FutureTech</string>
+    <string name="buttonCat">Press to Access your devıces</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="toClose">Press to close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379317882014",
+    "project_id": "abtesting-a75a1",
+    "storage_bucket": "abtesting-a75a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379317882014:android:045a9424ce6502be0e3f8f",
+        "android_client_info": {
+          "package_name": "com.example.ab_testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379317882014-p664c8r979tlvfafta81r9i33eogf60n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDi59B7kOZ0O_1fHZPZLmJhzcdcVy4CxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379317882014-p664c8r979tlvfafta81r9i33eogf60n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

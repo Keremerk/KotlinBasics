@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746894420094",
+    "project_id": "neon-5af74",
+    "storage_bucket": "neon-5af74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746894420094:android:0831225673bd124040902f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746894420094-ka51oase01rik9mvb5s248r7j259u3ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA1PGzjXSG0uMOaqwrl8otHHp_IRhFORg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746894420094-ka51oase01rik9mvb5s248r7j259u3ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

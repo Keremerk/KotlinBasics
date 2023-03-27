@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firestore</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Have_registered">Have you registered before? Click here to login</string>
+    <string name="Sign_up_new_account">Sign up with new account</string>
+    <string name="Forgot_password">Forgot password</string>
+    <string name="empty"></string>
+
+</resources>
